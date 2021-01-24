@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T05:17:25.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.2.7" etag="YfwZgNtNjOtGS8fn2Uwi" type="github"><diagram id="KxLEiwFhkLnX_6x6JbIt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-24T05:24:29.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="iYU8-b1czsW0mlmlK17f" version="14.2.7" type="github">
+  <diagram id="KxLEiwFhkLnX_6x6JbIt" name="Page-1">
+    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="327.25" y="210" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="367.25" y="210" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="327.25" y="260" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="367.25" y="260" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/windows8_icons_iconpharm/26/nas.png" vertex="1" parent="1">
+          <mxGeometry x="318" y="114" width="96" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-12" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="122" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-13" value="" style="endArrow=classic;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="170" as="sourcePoint" />
+            <mxPoint x="290" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="-70" as="sourcePoint" />
+            <mxPoint x="50" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-15" value="光纤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-115" y="-105" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-16" value="中国移动光猫" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="35" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-17" value="NAS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="341" y="80" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-18" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="610" y="122" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-19" value="大路由器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="595" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-22" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="490" y="459" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/512/Macbook-128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="755" y="430" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/24.TV-128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="31" y="401" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-26" value="TV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="75" y="380" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-27" value="台式机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="495" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-28" value="笔记本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Am6jU5prmk7LdxfVbNYN-29" value="" style="endArrow=classic;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="-70" as="sourcePoint" />
+            <mxPoint x="50" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
